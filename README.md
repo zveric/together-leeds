@@ -1,6 +1,6 @@
 # Together Leeds
 
-A two-page static website built from the Figma design *Together Leeds*:
+A two-page static website built from the Figma design *Together Leeds* written by Isabel Hair. The original designs are her's. I used claude to quickly package them into a Github pages site for her project. 
 
 - `index.html`: support homepage
 - `understand.html`: understand hate crime & your rights
